@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Git Commit Test
-
 int main()
 {
 	const int Size_L = 20;
